@@ -2,7 +2,7 @@ This app is a demonstration for extended Fibonacci sequence in Objective-C on iO
 
 # The advised building environment : 
 
-programming language: Swift 4
+programming language: Objective-C
 
 IDE: Xcode 10
 
